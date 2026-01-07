@@ -1,5 +1,7 @@
 # `wsort`
 
+C implementation: https://github.com/egorsmkv/wavesort-c
+
 ```
 Initializing benchmark for 100000000 integer samples...
 Data generated. Starting benchmark...
